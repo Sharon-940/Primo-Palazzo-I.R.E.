@@ -4,30 +4,31 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "cartiglio",
+            "created": "2025-03-21T16:20:50.142Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:20:50.142Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
         },
         {
-            "type": "TextualBody",
-            "value": "PADOVA\nVIA ALTINATE n\u00b0 10\n\nPALAZZO PER UFFICI\nED APPARTAMENTI\n\n53   3-A PIANTA PIANO TERRA 1:50\n",
-            "purpose": "supplementing",
+            "created": "2025-03-21T16:20:51.917Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:20:51.917Z",
-            "modified": "2025-03-21T16:22:53.398Z"
+            "modified": "2025-03-21T16:22:53.398Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "PADOVA\nVIA ALTINATE n\u00b0 10\n\nPALAZZO PER UFFICI\nED APPARTAMENTI\n\n53   3-A PIANTA PIANO TERRA 1:50\n"
         }
     ],
+    "id": "6a6ca9ab-e45e-4f48-a5e5-57ee0eb02180.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0008/full/full/0/default.jpg",
@@ -36,9 +37,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=298.1157531738281,138.29071044921875,718.7079162597656,998.3175659179688"
+            "value": "xywh=298.1157531738281,138.29071044921875,707.6042785644531,998.3175659179688"
         }
     },
-    "id": "6a6ca9ab-e45e-4f48-a5e5-57ee0eb02180.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
