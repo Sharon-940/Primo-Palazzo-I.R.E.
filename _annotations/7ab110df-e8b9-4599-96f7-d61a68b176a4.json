@@ -27,15 +27,26 @@ order: 1
             "value": "I.R.E. FABBRICATO IN VIA ALTINATE\nPIANO TERRA                              1:50"
         },
         {
-            "type": "TextualBody",
-            "value": "scala_1:50",
-            "purpose": "identifying",
+            "created": "2025-03-21T16:47:36.066Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:47:36.066Z",
-            "modified": "2025-03-21T16:47:58.873Z"
+            "modified": "2025-03-21T16:47:58.873Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "scala_1:50"
+        },
+        {
+            "type": "TextualBody",
+            "value": "localizzazione_piano terra",
+            "purpose": "replying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:48:49.841Z",
+            "modified": "2025-03-21T16:49:00.508Z"
         }
     ],
     "id": "7ab110df-e8b9-4599-96f7-d61a68b176a4.json",
