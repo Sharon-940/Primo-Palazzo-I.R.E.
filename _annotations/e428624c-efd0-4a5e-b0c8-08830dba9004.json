@@ -30,14 +30,14 @@ order: 1
     "id": "e428624c-efd0-4a5e-b0c8-08830dba9004.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=107.67156982421875,66.62178039550781,781.2920532226562,1065.9488983154297"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0012/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=107.67156982421875,66.62178039550781,781.2920532226562,1065.9488983154297"
         }
     },
     "type": "Annotation"
