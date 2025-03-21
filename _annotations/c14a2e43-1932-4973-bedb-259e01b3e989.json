@@ -27,15 +27,26 @@ order: 1
             "value": "cartiglio"
         },
         {
+            "created": "2025-03-21T16:50:56.848Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-03-21T16:51:11.021Z",
+            "purpose": "identifying",
             "type": "TextualBody",
-            "value": "scala_1:100",
+            "value": "scala_1:100"
+        },
+        {
+            "type": "TextualBody",
+            "value": "data_11/1952",
             "purpose": "identifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:50:56.848Z",
-            "modified": "2025-03-21T16:51:11.021Z"
+            "created": "2025-03-21T16:51:17.165Z",
+            "modified": "2025-03-21T16:51:30.941Z"
         }
     ],
     "id": "c14a2e43-1932-4973-bedb-259e01b3e989.json",
