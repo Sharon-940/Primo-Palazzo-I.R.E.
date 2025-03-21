@@ -27,15 +27,26 @@ order: 1
             "value": "s - f - i\nprogetto di massima per la ricostruzione\ndi un fabbricato in condminio in \nvia altinate padov - piano terra\n                               rapporto 1 a 100\n\narch. f. mansutti g. miozzo - padova 1952"
         },
         {
-            "type": "TextualBody",
-            "value": "Scala 1:100",
-            "purpose": "identifying",
+            "created": "2025-03-21T16:32:41.936Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:32:41.936Z",
-            "modified": "2025-03-21T16:32:48.086Z"
+            "modified": "2025-03-21T16:32:48.086Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "Scala 1:100"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Piano terra",
+            "purpose": "replying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:32:53.355Z",
+            "modified": "2025-03-21T16:32:55.113Z"
         }
     ],
     "id": "bdd0e760-e243-462a-b0f9-0b264ccd56e7.json",
