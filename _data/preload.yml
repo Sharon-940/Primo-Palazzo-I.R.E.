@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2025-03-21 15:42:49.115968'
+  iiif: false
+  thumbnail: https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0002_0004/full/full/0/default.jpg
+  title: ''
+  url: https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0002_0004/full/full/0/default.jpg
+  user: Sharon-940
 settings: {}
 version: '2.1'
