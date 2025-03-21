@@ -1,0 +1,45 @@
+---
+canvas: "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0002_0004/full/full/0/default.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "comune di padova\nsez. f. foglio VI\u00b0\nrapp. 1 a 1000",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:15:05.838Z",
+            "modified": "2025-03-21T16:15:24.254Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "cartiglio",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:15:26.407Z",
+            "modified": "2025-03-21T16:15:27.904Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0002_0004/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=827.0525512695312,422.6110534667969,589.5020141601562,301.4804992675781"
+        }
+    },
+    "id": "263b2828-447f-4f5b-ac9d-a01e50dbda61.json",
+    "motivation": "commenting"
+}
