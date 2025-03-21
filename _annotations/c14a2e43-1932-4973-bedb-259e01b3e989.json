@@ -4,41 +4,52 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "i - r - e \nrilievo dell'area i.r.e.\ne della propriet\u00e0 Molino\nnovembre 1952 # 1:100",
-            "purpose": "supplementing",
+            "created": "2025-03-21T16:16:57.063Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:16:57.063Z",
-            "modified": "2025-03-21T16:17:53.446Z"
+            "modified": "2025-03-21T16:17:53.446Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "i - r - e \nrilievo dell'area i.r.e.\ne della propriet\u00e0 Molino\nnovembre 1952 # 1:100"
+        },
+        {
+            "created": "2025-03-21T16:17:57.550Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
         },
         {
             "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "cartiglio",
+            "value": "scala_1:100",
+            "purpose": "identifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:17:57.550Z"
+            "created": "2025-03-21T16:50:56.848Z",
+            "modified": "2025-03-21T16:51:11.021Z"
         }
     ],
+    "id": "c14a2e43-1932-4973-bedb-259e01b3e989.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=292.7321472167969,270.52490234375,646.0295715332031,312.24761962890625"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0002_0006/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=292.7321472167969,270.52490234375,646.0295715332031,312.24761962890625"
         }
     },
-    "id": "c14a2e43-1932-4973-bedb-259e01b3e989.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
