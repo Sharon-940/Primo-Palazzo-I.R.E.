@@ -27,15 +27,26 @@ order: 1
             "value": "PADOVA\nVIA ALTINATE n\u00b0 10\n\nPALAZZO PER UFFICI\nED APPARTAMENTI\n\n53   3-A PIANTA PIANO TERRA 1:50\n"
         },
         {
+            "created": "2025-03-21T16:53:05.723Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-03-21T16:53:10.503Z",
+            "purpose": "identifying",
             "type": "TextualBody",
-            "value": "scala_1:50",
+            "value": "scala_1:50"
+        },
+        {
+            "type": "TextualBody",
+            "value": "localizzazione_piano terra",
             "purpose": "identifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:53:05.723Z",
-            "modified": "2025-03-21T16:53:10.503Z"
+            "created": "2025-03-21T16:53:22.069Z",
+            "modified": "2025-03-21T16:53:30.645Z"
         }
     ],
     "id": "6a6ca9ab-e45e-4f48-a5e5-57ee0eb02180.json",
