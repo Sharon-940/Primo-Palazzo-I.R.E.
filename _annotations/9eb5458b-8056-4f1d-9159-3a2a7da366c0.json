@@ -1,0 +1,44 @@
+---
+canvas: "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0009/full/full/0/default.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "cartiglio",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:23:29.791Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "PADOVA",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:23:32.297Z",
+            "modified": "2025-03-21T16:23:32.838Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0009/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=356.6621398925781,64.60295867919922,817.6311950683594,1003.3646926879883"
+        }
+    },
+    "id": "9eb5458b-8056-4f1d-9159-3a2a7da366c0.json",
+    "motivation": "commenting"
+}
