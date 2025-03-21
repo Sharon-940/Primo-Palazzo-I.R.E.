@@ -32,10 +32,10 @@ order: 1
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-03-21T16:32:48.086Z",
+            "modified": "2025-03-21T16:49:39.960Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "Scala 1:100"
+            "value": "scala_1:100"
         },
         {
             "created": "2025-03-21T16:32:53.355Z",
@@ -43,10 +43,10 @@ order: 1
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-03-21T16:33:01.630Z",
+            "modified": "2025-03-21T16:49:53.550Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "Piano terra"
+            "value": "localizzazione_piano terra"
         }
     ],
     "id": "bdd0e760-e243-462a-b0f9-0b264ccd56e7.json",
