@@ -49,15 +49,15 @@ order: 1
             "value": "localizzazione_piano terra"
         },
         {
-            "type": "TextualBody",
-            "value": "data_1952",
-            "purpose": "identifying",
+            "created": "2025-03-21T16:50:06.883Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:50:06.883Z",
-            "modified": "2025-03-21T16:50:25.037Z"
+            "modified": "2025-03-21T16:50:25.037Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "data_1952"
         }
     ],
     "id": "bdd0e760-e243-462a-b0f9-0b264ccd56e7.json",
