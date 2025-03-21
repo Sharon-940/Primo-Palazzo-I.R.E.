@@ -25,6 +25,17 @@ order: 1
             "purpose": "supplementing",
             "type": "TextualBody",
             "value": "I.R.E. FABBRICATO IN VIA ALTINATE\nPIANO TERRA                              1:50"
+        },
+        {
+            "type": "TextualBody",
+            "value": "scala_1:50",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:47:36.066Z",
+            "modified": "2025-03-21T16:47:58.873Z"
         }
     ],
     "id": "7ab110df-e8b9-4599-96f7-d61a68b176a4.json",
