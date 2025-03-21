@@ -1,0 +1,44 @@
+---
+canvas: "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0013/full/full/0/default.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "cartiglio",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:28:21.591Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "PADOVA\nVIA ALTINATE n\u00b0 10\n\nPALAZZO PER UFFICI\nED APPARTAMENTI\n\n53   11'-A PROSPETTO 1:50",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-21T16:28:22.452Z",
+            "modified": "2025-03-21T16:28:36.125Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0013/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=835.1278076171875,38.35800552368164,629.87890625,835.8008079528809"
+        }
+    },
+    "id": "4c0dece4-f822-40ee-9bb4-32293d61b49b.json",
+    "motivation": "commenting"
+}
