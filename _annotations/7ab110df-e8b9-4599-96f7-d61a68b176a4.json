@@ -4,41 +4,52 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "cartiglio",
+            "created": "2025-03-21T16:18:23.598Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:18:23.598Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
+        },
+        {
+            "created": "2025-03-21T16:18:25.042Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-03-21T16:18:47.566Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "I.R.E. FABBRICATO IN VIA ALTINATE\nPIANO TERRA                              1:50"
         },
         {
             "type": "TextualBody",
-            "value": "I.R.E. FABBRICATO IN VIA ALTINATE\nPIANO TERRA                              1:50",
-            "purpose": "supplementing",
+            "value": "Scala 1:50",
+            "purpose": "identifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:18:25.042Z",
-            "modified": "2025-03-21T16:18:47.566Z"
+            "created": "2025-03-21T16:30:28.774Z",
+            "modified": "2025-03-21T16:31:09.437Z"
         }
     ],
+    "id": "7ab110df-e8b9-4599-96f7-d61a68b176a4.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=369.44818115234375,315.61236572265625,367.4293212890625,163.5262451171875"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0002_0007/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=369.44818115234375,315.61236572265625,367.4293212890625,163.5262451171875"
         }
     },
-    "id": "7ab110df-e8b9-4599-96f7-d61a68b176a4.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
