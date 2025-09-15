@@ -11,30 +11,30 @@ order: 8
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-15T15:06:54.222Z",
+            "modified": "2025-09-15T16:02:49.932Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "Palazzo Camerini"
+            "value": "Ex Palazzo Camerini"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "vista",
+            "created": "2025-09-15T15:07:16.797Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T15:07:16.797Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "vista"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "view",
+            "created": "2025-09-15T15:07:18.893Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T15:07:18.893Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "view"
         }
     ],
     "id": "a83da6e6-c5ba-4456-a7ad-e00c5e7953fc.json",
