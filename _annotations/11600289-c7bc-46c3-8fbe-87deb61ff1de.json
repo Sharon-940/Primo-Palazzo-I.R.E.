@@ -4,51 +4,51 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "I.R.E\n1\nSCHEMA DI RICOSTRUZIONE\nSECONDO IL DIRITTO EDIFICATORIO",
-            "purpose": "supplementing",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-15T16:33:11.060Z",
-            "modified": "2025-09-15T16:33:27.863Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "cartiglio",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T16:33:35.240Z"
+            "modified": "2025-09-15T16:33:27.863Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "I.R.E\n1\nSCHEMA DI RICOSTRUZIONE\nSECONDO IL DIRITTO EDIFICATORIO"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "title block",
+            "created": "2025-09-15T16:33:35.240Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T16:33:37.929Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
+        },
+        {
+            "created": "2025-09-15T16:33:37.929Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "title block"
         }
     ],
+    "id": "11600289-c7bc-46c3-8fbe-87deb61ff1de.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=215.7894744873047,800,1758.5967559814453,656.140380859375"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0014_0026/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=215.7894744873047,800,1758.5967559814453,656.140380859375"
         }
     },
-    "id": "11600289-c7bc-46c3-8fbe-87deb61ff1de.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
