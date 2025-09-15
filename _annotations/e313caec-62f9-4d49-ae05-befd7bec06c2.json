@@ -4,41 +4,51 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "I.R.E.\nPROSPETTO SU VIA ALTINATE\nRAPPORTO 1A50\nVARIANTE 23 GIU 1950",
-            "purpose": "supplementing",
+            "created": "2025-09-15T14:04:33.517Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:04:33.517Z",
-            "modified": "2025-09-15T14:05:12.487Z"
+            "modified": "2025-09-15T14:05:12.487Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "I.R.E.\nPROSPETTO SU VIA ALTINATE\nRAPPORTO 1A50\nVARIANTE 23 GIU 1950"
+        },
+        {
+            "created": "2025-09-15T14:05:22.827Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
         },
         {
             "type": "TextualBody",
             "purpose": "tagging",
-            "value": "cartiglio",
+            "value": "title block",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:05:22.827Z"
+            "created": "2025-09-15T14:09:41.766Z"
         }
     ],
+    "id": "e313caec-62f9-4d49-ae05-befd7bec06c2.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=276.0828552246094,124.12572479248047,391.2724914550781,171.82865142822266"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=276.0828552246094,124.12572479248047,391.2724914550781,171.82865142822266"
         }
     },
-    "id": "e313caec-62f9-4d49-ae05-befd7bec06c2.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
