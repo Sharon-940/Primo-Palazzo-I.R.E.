@@ -37,15 +37,26 @@ order: 2
             "value": "vista"
         },
         {
+            "created": "2025-09-15T16:35:41.858Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-09-15T16:36:06.045Z",
+            "purpose": "describing",
             "type": "TextualBody",
-            "value": "Volumetria prevista dalla normativa del Comune di Padova",
+            "value": "Volumetria prevista dalla normativa del Comune di Padova"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Disegno a matita su carta",
             "purpose": "describing",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T16:35:41.858Z",
-            "modified": "2025-09-15T16:36:06.045Z"
+            "created": "2025-09-15T16:36:41.954Z",
+            "modified": "2025-09-15T16:37:11.311Z"
         }
     ],
     "id": "2160c75f-3890-49b1-b67a-f97dd2761c70.json",
