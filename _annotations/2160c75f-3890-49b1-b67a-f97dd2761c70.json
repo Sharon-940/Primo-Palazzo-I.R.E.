@@ -48,15 +48,15 @@ order: 2
             "value": "Volumetria prevista dalla normativa del Comune di Padova"
         },
         {
-            "type": "TextualBody",
-            "value": "Disegno a matita su carta",
-            "purpose": "describing",
+            "created": "2025-09-15T16:36:41.954Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T16:36:41.954Z",
-            "modified": "2025-09-15T16:37:11.311Z"
+            "modified": "2025-09-15T16:37:11.311Z",
+            "purpose": "describing",
+            "type": "TextualBody",
+            "value": "Disegno a matita su carta"
         }
     ],
     "id": "2160c75f-3890-49b1-b67a-f97dd2761c70.json",
