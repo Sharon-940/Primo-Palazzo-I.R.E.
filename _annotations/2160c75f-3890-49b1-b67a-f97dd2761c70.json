@@ -4,51 +4,62 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "vista prospettica, perspective view",
-            "purpose": "classifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-15T16:34:44.503Z",
-            "modified": "2025-09-15T16:34:54.751Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "view",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T16:35:08.841Z"
+            "modified": "2025-09-15T16:34:54.751Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "vista prospettica, perspective view"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "vista",
+            "created": "2025-09-15T16:35:08.841Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T16:35:10.940Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "view"
+        },
+        {
+            "created": "2025-09-15T16:35:10.940Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "vista"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Volumetria prevista dalla normativa del Comune di Padova",
+            "purpose": "describing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T16:35:41.858Z",
+            "modified": "2025-09-15T16:36:06.045Z"
         }
     ],
+    "id": "2160c75f-3890-49b1-b67a-f97dd2761c70.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=220.0000457763672,1289.5689697265625,2613.333206176758,2206.3160400390625"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0014_0026/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=220.0000457763672,1289.5689697265625,2613.333206176758,2206.3160400390625"
         }
     },
-    "id": "2160c75f-3890-49b1-b67a-f97dd2761c70.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
