@@ -4,40 +4,52 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Vista di prospetto",
-            "purpose": "classifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-15T14:11:07.193Z",
-            "modified": "2025-09-15T14:12:16.980Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "vista",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:44:56.949Z"
+            "modified": "2025-09-15T14:12:16.980Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "Vista di prospetto"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "view",
+            "created": "2025-09-15T14:44:56.949Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:45:01.582Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "vista"
+        },
+        {
+            "created": "2025-09-15T14:45:01.582Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "view"
+        },
+        {
+            "type": "TextualBody",
+            "value": "prospetto sud",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:51:00.813Z",
+            "modified": "2025-09-15T14:53:27.117Z"
         }
     ],
+    "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
@@ -46,9 +58,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=308.7237854003906,306.9540710449219,2788.7046813964844,2533.728546142578"
+            "value": "xywh=308.7237854003906,365.7200012207031,2792.3824157714844,2474.962615966797"
         }
     },
-    "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
