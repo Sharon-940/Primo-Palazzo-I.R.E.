@@ -1,0 +1,54 @@
+---
+canvas: "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg"
+order: 5
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "F. Mansutti",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:45:26.861Z",
+            "modified": "2025-09-15T14:45:33.126Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "firma",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:45:57.919Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "signature",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:46:00.067Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=669.7245483398438,244.11509704589844,349.62237548828125,94.38780212402344"
+        }
+    },
+    "id": "b829163a-df9f-4fed-bf5c-f0fcc4c16d62.json",
+    "motivation": "commenting"
+}
