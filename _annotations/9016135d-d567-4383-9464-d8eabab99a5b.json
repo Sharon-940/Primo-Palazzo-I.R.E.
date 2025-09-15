@@ -42,23 +42,23 @@ order: 4
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-15T14:53:27.117Z",
+            "modified": "2025-09-15T15:04:13.690Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "prospetto sud"
+            "value": "prospetto sud del Primo Palazzo IRE"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=579.733154296875,365.7200012207031,1996.364990234375,2408.503387451172"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=579.733154296875,365.7200012207031,1996.364990234375,2408.503387451172"
         }
     },
     "type": "Annotation"
