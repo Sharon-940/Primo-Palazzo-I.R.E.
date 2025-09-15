@@ -37,15 +37,15 @@ order: 4
             "value": "view"
         },
         {
-            "type": "TextualBody",
-            "value": "prospetto sud",
-            "purpose": "identifying",
+            "created": "2025-09-15T14:51:00.813Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:51:00.813Z",
-            "modified": "2025-09-15T14:53:27.117Z"
+            "modified": "2025-09-15T14:53:27.117Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "prospetto sud"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
@@ -58,7 +58,7 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=308.7237854003906,365.7200012207031,2792.3824157714844,2474.962615966797"
+            "value": "xywh=579.733154296875,365.7200012207031,1996.364990234375,2408.503387451172"
         }
     },
     "type": "Annotation"
