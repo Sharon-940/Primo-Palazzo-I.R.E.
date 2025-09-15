@@ -1,0 +1,54 @@
+---
+canvas: "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "La Commissione d'Ornato\nesprime parere favorevole",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:06:01.443Z",
+            "modified": "2025-09-15T14:06:17.974Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "timbro",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:07:42.989Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "stamp",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:07:44.708Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=292.6446533203125,279.392578125,327.09552001953125,122.14324951171875"
+        }
+    },
+    "id": "d66e5060-a397-4d58-a06b-b022788b7dbc.json",
+    "motivation": "commenting"
+}
