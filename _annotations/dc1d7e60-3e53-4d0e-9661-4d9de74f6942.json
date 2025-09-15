@@ -4,51 +4,62 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "timbro",
+            "created": "2025-09-15T14:08:17.044Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:08:17.044Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "timbro"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "stamp",
+            "created": "2025-09-15T14:08:18.385Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:08:18.385Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "stamp"
         },
         {
-            "type": "TextualBody",
-            "value": "23 GEN 1952\nSI APPROVA\nIL SINDACO\n[Signed]",
-            "purpose": "commenting",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-15T14:08:21.264Z",
-            "modified": "2025-09-15T14:08:54.807Z"
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-09-15T14:08:54.807Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "23 GEN 1952\nSI APPROVA\nIL SINDACO\n[Signed]"
+        },
+        {
+            "type": "TextualBody",
+            "value": "timbro di approvazione, approval stamp",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-15T14:50:02.988Z",
+            "modified": "2025-09-15T14:50:05.126Z"
         }
     ],
+    "id": "dc1d7e60-3e53-4d0e-9661-4d9de74f6942.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=650.0712890625,63.61473846435547,322.7283935546875,204.8084487915039"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=650.0712890625,63.61473846435547,322.7283935546875,204.8084487915039"
         }
     },
-    "id": "dc1d7e60-3e53-4d0e-9661-4d9de74f6942.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
