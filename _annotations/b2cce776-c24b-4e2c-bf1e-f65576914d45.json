@@ -1,0 +1,54 @@
+---
+canvas: "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dettaglio costruttivo",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-16T14:48:06.319Z",
+            "modified": "2025-09-16T14:48:31.171Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "view",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-16T14:48:15.820Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "vista",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-16T14:48:17.303Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3930.419921875,1307.3536376953125,1125.4111328125,1079.9754638671875"
+        }
+    },
+    "id": "b2cce776-c24b-4e2c-bf1e-f65576914d45.json",
+    "motivation": "commenting"
+}
