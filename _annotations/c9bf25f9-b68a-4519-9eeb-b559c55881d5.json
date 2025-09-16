@@ -4,31 +4,42 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Vista di prospetto",
-            "purpose": "classifying",
+            "created": "2025-09-16T14:42:32.271Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:42:32.271Z",
-            "modified": "2025-09-16T14:42:36.671Z"
+            "modified": "2025-09-16T14:42:36.671Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "Vista di prospetto"
+        },
+        {
+            "type": "TextualBody",
+            "value": "prospetto del piano negozi sul prospetto sud del Primo Palazzo IRE",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-16T14:42:57.782Z",
+            "modified": "2025-09-16T14:43:51.674Z"
         }
     ],
+    "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=158.86660766601562,395.559326171875,8210.226165771484,2236.841796875"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=158.86660766601562,395.559326171875,8210.226165771484,2236.841796875"
         }
     },
-    "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
