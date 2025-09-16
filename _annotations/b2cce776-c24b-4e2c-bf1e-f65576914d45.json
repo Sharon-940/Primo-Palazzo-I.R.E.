@@ -37,15 +37,15 @@ order: 4
             "value": "vista"
         },
         {
-            "type": "TextualBody",
-            "value": "Dettaglio costruttivo del sistema di ancoraggio dei pannelli in granito",
-            "purpose": "identifying",
+            "created": "2025-09-16T14:50:01.812Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:50:01.812Z",
-            "modified": "2025-09-16T14:50:34.835Z"
+            "modified": "2025-09-16T14:51:02.395Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "Dettaglio costruttivo del sistema di ancoraggio del pannello in granito "
         }
     ],
     "id": "b2cce776-c24b-4e2c-bf1e-f65576914d45.json",
