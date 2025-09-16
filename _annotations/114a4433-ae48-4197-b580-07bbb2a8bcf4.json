@@ -4,51 +4,62 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "I.R.E.\n[ORDINATIVO] DELLA PIETRA DELLA FACCIATA\n[PIA]NO NEGOZI RAPP. 1:20\nFRONTE",
-            "purpose": "supplementing",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-16T14:40:56.829Z",
-            "modified": "2025-09-16T14:41:29.360Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "cartiglio",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:41:35.481Z"
+            "modified": "2025-09-16T14:41:29.360Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "I.R.E.\n[ORDINATIVO] DELLA PIETRA DELLA FACCIATA\n[PIA]NO NEGOZI RAPP. 1:20\nFRONTE"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "title block",
+            "created": "2025-09-16T14:41:35.481Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:41:38.058Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
+        },
+        {
+            "created": "2025-09-16T14:41:38.058Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "title block"
+        },
+        {
+            "type": "TextualBody",
+            "value": "cartiglio, title block",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-16T14:41:57.741Z",
+            "modified": "2025-09-16T14:42:05.551Z"
         }
     ],
+    "id": "114a4433-ae48-4197-b580-07bbb2a8bcf4.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=215.10560607910156,198.5000457763672,953.1998138427734,290.72593688964844"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=215.10560607910156,198.5000457763672,953.1998138427734,290.72593688964844"
         }
     },
-    "id": "114a4433-ae48-4197-b580-07bbb2a8bcf4.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
