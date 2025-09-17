@@ -37,15 +37,15 @@ order: 1
             "value": "title block"
         },
         {
-            "type": "TextualBody",
-            "value": "cartiglio, title block",
-            "purpose": "classifying",
+            "created": "2025-09-16T14:41:57.741Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:41:57.741Z",
-            "modified": "2025-09-16T14:42:05.551Z"
+            "modified": "2025-09-16T14:42:05.551Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "cartiglio, title block"
         }
     ],
     "id": "114a4433-ae48-4197-b580-07bbb2a8bcf4.json",
