@@ -17,26 +17,6 @@ order: 2
             "value": "vista prospettica, perspective view"
         },
         {
-            "created": "2025-09-15T16:35:08.841Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "view"
-        },
-        {
-            "created": "2025-09-15T16:35:10.940Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "vista"
-        },
-        {
             "created": "2025-09-15T16:35:41.858Z",
             "creator": {
                 "id": "Sharon-940",
