@@ -28,44 +28,44 @@ order: 2
             "value": "prospetto del piano negozi fronte sud"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "D_Architettonico",
+            "created": "2025-09-17T12:46:29.172Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:46:29.172Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "D_Architettonico"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "S_Esecutivo",
+            "created": "2025-09-17T12:46:43.012Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:46:43.012Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "S_Esecutivo"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "E_RivestimentoMarmo",
+            "created": "2025-09-17T12:47:03.560Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:47:03.560Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_RivestimentoMarmo"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "E_Facciata",
+            "created": "2025-09-17T12:47:12.212Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:47:12.212Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_Facciata"
         }
     ],
     "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
