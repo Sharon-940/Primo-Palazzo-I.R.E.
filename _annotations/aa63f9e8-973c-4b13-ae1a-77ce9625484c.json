@@ -19,12 +19,12 @@ order: 3
         {
             "type": "TextualBody",
             "purpose": "tagging",
-            "value": "E_Pannello",
+            "value": "E_RivestimentoMarmo",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:47:28.547Z"
+            "created": "2025-09-17T12:48:43.387Z"
         }
     ],
     "id": "aa63f9e8-973c-4b13-ae1a-77ce9625484c.json",
