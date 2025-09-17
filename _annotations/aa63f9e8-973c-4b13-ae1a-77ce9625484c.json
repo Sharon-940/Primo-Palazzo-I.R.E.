@@ -11,20 +11,20 @@ order: 3
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-16T14:45:40.160Z",
+            "modified": "2025-09-17T15:45:50.287Z",
             "purpose": "describing",
             "type": "TextualBody",
-            "value": "Pannello in granito rosa di Baveno"
+            "value": "Lastra in granito rosa di Baveno"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "E_RivestimentoMarmo",
+            "created": "2025-09-17T12:48:43.387Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:48:43.387Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_RivestimentoMarmo"
         }
     ],
     "id": "aa63f9e8-973c-4b13-ae1a-77ce9625484c.json",
