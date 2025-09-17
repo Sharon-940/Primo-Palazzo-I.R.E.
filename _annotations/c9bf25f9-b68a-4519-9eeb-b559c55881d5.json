@@ -22,30 +22,30 @@ order: 2
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-16T14:43:51.674Z",
+            "modified": "2025-09-17T12:44:12.298Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "prospetto del piano negozi sul prospetto sud del Primo Palazzo IRE"
+            "value": "Prospetto del piano negozi fronte sud del Primo Palazzo IRE"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "vista",
+            "created": "2025-09-16T14:44:04.789Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:44:04.789Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "vista"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "view",
+            "created": "2025-09-16T14:44:07.529Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-16T14:44:07.529Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "view"
         }
     ],
     "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
