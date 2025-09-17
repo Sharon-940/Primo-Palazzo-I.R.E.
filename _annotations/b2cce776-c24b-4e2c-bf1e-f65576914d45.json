@@ -11,10 +11,10 @@ order: 4
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-16T14:48:31.171Z",
+            "modified": "2025-09-17T12:45:12.800Z",
             "purpose": "classifying",
             "type": "TextualBody",
-            "value": "Dettaglio costruttivo"
+            "value": "dettaglio costruttivo"
         },
         {
             "created": "2025-09-16T14:48:15.820Z",
@@ -42,10 +42,10 @@ order: 4
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-16T14:51:02.395Z",
+            "modified": "2025-09-17T12:45:19.510Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "Dettaglio costruttivo del sistema di ancoraggio del pannello in granito "
+            "value": "dettaglio costruttivo del sistema di ancoraggio del pannello in granito "
         }
     ],
     "id": "b2cce776-c24b-4e2c-bf1e-f65576914d45.json",
