@@ -28,15 +28,45 @@ order: 4
             "value": "prospetto sud del Primo Palazzo IRE"
         },
         {
-            "type": "TextualBody",
-            "value": "\"http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#FacciataSudPrimoPalazzoIRE\"",
-            "purpose": "linking",
+            "created": "2025-09-18T10:31:42.587Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-18T10:31:42.587Z",
-            "modified": "2025-09-18T10:31:44.757Z"
+            "modified": "2025-09-18T10:31:44.757Z",
+            "purpose": "linking",
+            "type": "TextualBody",
+            "value": "\"http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#FacciataSudPrimoPalazzoIRE\""
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "D_Architettonico",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:46:39.464Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "S_Esecutivo",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:46:43.454Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "E_Facciata",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:46:48.341Z"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
