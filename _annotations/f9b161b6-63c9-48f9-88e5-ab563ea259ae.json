@@ -17,15 +17,15 @@ order: 9
             "value": "prospetto del piano negozi"
         },
         {
-            "type": "TextualBody",
-            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#man_-mio_0001_0001_0046_0016_0004",
-            "purpose": "linking",
+            "created": "2025-09-18T10:39:46.731Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-18T10:39:46.731Z",
-            "modified": "2025-09-18T10:39:50.997Z"
+            "modified": "2025-09-18T10:40:30.652Z",
+            "purpose": "linking",
+            "type": "TextualBody",
+            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#man_-mio_0001_0001_0046_0016_0004"
         }
     ],
     "id": "f9b161b6-63c9-48f9-88e5-ab563ea259ae.json",
