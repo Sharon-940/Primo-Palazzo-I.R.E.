@@ -17,26 +17,6 @@ order: 4
             "value": "Vista di prospetto"
         },
         {
-            "created": "2025-09-15T14:44:56.949Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "vista"
-        },
-        {
-            "created": "2025-09-15T14:45:01.582Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "view"
-        },
-        {
             "created": "2025-09-15T14:51:00.813Z",
             "creator": {
                 "id": "Sharon-940",
@@ -46,6 +26,17 @@ order: 4
             "purpose": "identifying",
             "type": "TextualBody",
             "value": "prospetto sud del Primo Palazzo IRE"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\"http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#FacciataSudPrimoPalazzoIRE\"",
+            "purpose": "linking",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:31:42.587Z",
+            "modified": "2025-09-18T10:31:44.757Z"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
