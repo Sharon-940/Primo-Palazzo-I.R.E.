@@ -66,6 +66,17 @@ order: 2
             "purpose": "tagging",
             "type": "TextualBody",
             "value": "E_Facciata"
+        },
+        {
+            "type": "TextualBody",
+            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#man_-mio_0001_0001_0046_0002_0004",
+            "purpose": "linking",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:48:25.056Z",
+            "modified": "2025-09-18T10:48:26.917Z"
         }
     ],
     "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
