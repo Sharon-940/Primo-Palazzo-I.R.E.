@@ -1,0 +1,34 @@
+---
+canvas: "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg"
+order: 9
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "prospetto del piano negozi",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:35:32.363Z",
+            "modified": "2025-09-18T10:35:36.709Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=552.0812377929688,2273.650634765625,2037.9595336914062,563.75244140625"
+        }
+    },
+    "id": "f9b161b6-63c9-48f9-88e5-ab563ea259ae.json",
+    "motivation": "commenting"
+}
