@@ -4,31 +4,42 @@ order: 9
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "prospetto del piano negozi",
-            "purpose": "identifying",
+            "created": "2025-09-18T10:35:32.363Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-18T10:35:32.363Z",
-            "modified": "2025-09-18T10:35:36.709Z"
+            "modified": "2025-09-18T10:35:36.709Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "prospetto del piano negozi"
+        },
+        {
+            "type": "TextualBody",
+            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#man_-mio_0001_0001_0046_0016_0004",
+            "purpose": "linking",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-18T10:39:46.731Z",
+            "modified": "2025-09-18T10:39:50.997Z"
         }
     ],
+    "id": "f9b161b6-63c9-48f9-88e5-ab563ea259ae.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=552.0812377929688,2273.650634765625,2037.9595336914062,563.75244140625"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=552.0812377929688,2273.650634765625,2037.9595336914062,563.75244140625"
         }
     },
-    "id": "f9b161b6-63c9-48f9-88e5-ab563ea259ae.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
