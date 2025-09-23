@@ -47,15 +47,26 @@ order: 8
             "value": "E_RivestimentoMarmo"
         },
         {
-            "type": "TextualBody",
-            "value": "dettaglio costruttivo",
-            "purpose": "classifying",
+            "created": "2025-09-23T09:44:52.886Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:44:52.886Z",
-            "modified": "2025-09-23T09:45:06.790Z"
+            "modified": "2025-09-23T09:45:06.790Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "dettaglio costruttivo"
+        },
+        {
+            "type": "TextualBody",
+            "value": "sistema di ancoraggio del pannello in granito ",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:45:22.020Z",
+            "modified": "2025-09-23T09:45:24.093Z"
         }
     ],
     "id": "3080de9f-5867-4b9a-a0f3-fa41236f5fe0.json",
