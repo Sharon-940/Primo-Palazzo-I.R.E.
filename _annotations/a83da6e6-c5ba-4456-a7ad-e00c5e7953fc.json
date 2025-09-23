@@ -15,26 +15,6 @@ order: 8
             "purpose": "identifying",
             "type": "TextualBody",
             "value": "Ex Palazzo Camerini"
-        },
-        {
-            "created": "2025-09-15T15:07:16.797Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "vista"
-        },
-        {
-            "created": "2025-09-15T15:07:18.893Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "view"
         }
     ],
     "id": "a83da6e6-c5ba-4456-a7ad-e00c5e7953fc.json",
