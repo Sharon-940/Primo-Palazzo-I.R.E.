@@ -56,6 +56,17 @@ order: 9
             "purpose": "classifying",
             "type": "TextualBody",
             "value": "dettaglio costruttivo"
+        },
+        {
+            "type": "TextualBody",
+            "value": "sistema di ancoraggio del pannello in granito ",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:45:17.416Z",
+            "modified": "2025-09-23T09:45:19.125Z"
         }
     ],
     "id": "d6ee68e6-8139-4dbb-9655-3291651e45db.json",
