@@ -15,19 +15,49 @@ order: 8
             "purpose": "commenting",
             "type": "TextualBody",
             "value": "sezione trasversale sulla linea B-B"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "D_Architettonico",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:44:07.487Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "S_Esecutivo",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:44:12.679Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "E_RivestimentoMarmo",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:44:14.468Z"
         }
     ],
     "id": "3080de9f-5867-4b9a-a0f3-fa41236f5fe0.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=4021.476806640625,1908.4515380859375,1003.399169921875,464.9259033203125"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=4021.476806640625,1908.4515380859375,1003.399169921875,464.9259033203125"
         }
     },
     "type": "Annotation"
