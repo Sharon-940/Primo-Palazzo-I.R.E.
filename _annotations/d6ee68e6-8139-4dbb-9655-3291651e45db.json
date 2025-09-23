@@ -58,15 +58,26 @@ order: 9
             "value": "dettaglio costruttivo"
         },
         {
-            "type": "TextualBody",
-            "value": "sistema di ancoraggio del pannello in granito ",
-            "purpose": "identifying",
+            "created": "2025-09-23T09:45:17.416Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:45:17.416Z",
-            "modified": "2025-09-23T09:45:19.125Z"
+            "modified": "2025-09-23T09:45:19.125Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "sistema di ancoraggio del pannello in granito "
+        },
+        {
+            "type": "TextualBody",
+            "value": "scala 1:1",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:45:59.848Z",
+            "modified": "2025-09-23T09:46:03.748Z"
         }
     ],
     "id": "d6ee68e6-8139-4dbb-9655-3291651e45db.json",
