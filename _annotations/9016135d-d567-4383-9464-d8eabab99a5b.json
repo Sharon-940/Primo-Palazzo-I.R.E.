@@ -59,15 +59,25 @@ order: 4
             "value": "S_Variante"
         },
         {
-            "type": "TextualBody",
-            "value": "E_FacciataSud",
-            "purpose": "tagging",
+            "created": "2025-09-23T08:47:37.927Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T08:47:37.927Z",
-            "modified": "2025-09-23T08:47:44.872Z"
+            "modified": "2025-09-23T08:47:44.872Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_FacciataSud"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "L_Edificio",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T08:52:00.902Z"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
