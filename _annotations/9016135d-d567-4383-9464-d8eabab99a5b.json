@@ -69,14 +69,14 @@ order: 4
             "value": "E_Facciata"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "S_Variante",
+            "created": "2025-09-23T07:43:55.020Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T07:43:55.020Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "S_Variante"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
