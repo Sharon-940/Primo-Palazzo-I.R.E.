@@ -17,35 +17,15 @@ order: 2
             "value": "La Commissione d'Ornato\nesprime parere favorevole"
         },
         {
-            "created": "2025-09-15T14:07:42.989Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "timbro"
-        },
-        {
-            "created": "2025-09-15T14:07:44.708Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "stamp"
-        },
-        {
-            "type": "TextualBody",
-            "value": "timbro di approvazione, approval stamp",
-            "purpose": "classifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-15T14:48:10.176Z",
-            "modified": "2025-09-15T14:49:35.091Z"
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-09-15T14:49:35.091Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "timbro di approvazione, approval stamp"
         }
     ],
     "id": "d66e5060-a397-4d58-a06b-b022788b7dbc.json",
