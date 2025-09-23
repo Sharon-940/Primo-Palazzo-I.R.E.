@@ -20,14 +20,14 @@ order: 6
     "id": "1ac0c609-842a-46a6-9a72-a1da38570b91.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=241.603515625,209.55642700195312,333.87677001953125,40.22615051269531"
-        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
             "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=241.603515625,221.024658203125,336.54901123046875,28.757919311523438"
         }
     },
     "type": "Annotation"
