@@ -22,10 +22,10 @@ order: 4
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-17T12:45:19.510Z",
+            "modified": "2025-09-23T09:38:26.131Z",
             "purpose": "identifying",
             "type": "TextualBody",
-            "value": "dettaglio costruttivo del sistema di ancoraggio del pannello in granito "
+            "value": "sistema di ancoraggio del pannello in granito "
         },
         {
             "created": "2025-09-17T12:47:55.925Z",
@@ -58,15 +58,15 @@ order: 4
             "value": "E_RivestimentoMarmo"
         },
         {
-            "type": "TextualBody",
-            "value": "scala 1:1",
-            "purpose": "identifying",
+            "created": "2025-09-23T09:35:53.872Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:35:53.872Z",
-            "modified": "2025-09-23T09:36:06.383Z"
+            "modified": "2025-09-23T09:36:06.383Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "scala 1:1"
         }
     ],
     "id": "b2cce776-c24b-4e2c-bf1e-f65576914d45.json",
