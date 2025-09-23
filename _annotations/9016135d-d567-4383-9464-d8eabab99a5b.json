@@ -39,34 +39,44 @@ order: 4
             "value": "\"http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#FacciataSudPrimoPalazzoIRE\""
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "D_Architettonico",
+            "created": "2025-09-18T10:46:39.464Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-18T10:46:39.464Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "D_Architettonico"
+        },
+        {
+            "created": "2025-09-18T10:46:43.454Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "S_Esecutivo"
+        },
+        {
+            "created": "2025-09-18T10:46:48.341Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_Facciata"
         },
         {
             "type": "TextualBody",
             "purpose": "tagging",
-            "value": "S_Esecutivo",
+            "value": "S_Variante",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-18T10:46:43.454Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "E_Facciata",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-09-18T10:46:48.341Z"
+            "created": "2025-09-23T07:43:55.020Z"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
