@@ -82,14 +82,14 @@ order: 2
     "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=158.86660766601562,395.559326171875,8210.226165771484,2236.841796875"
-        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
             "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=158.86660766601562,462.45367431640625,8215.052337646484,2169.9474487304688"
         }
     },
     "type": "Annotation"
