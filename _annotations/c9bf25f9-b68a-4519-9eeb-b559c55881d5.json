@@ -79,15 +79,15 @@ order: 2
             "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#man_-mio_0001_0001_0046_0002_0004"
         },
         {
-            "type": "TextualBody",
-            "value": "1:20 ",
-            "purpose": "identifying",
+            "created": "2025-09-23T09:35:27.403Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:35:27.403Z",
-            "modified": "2025-09-23T09:35:31.718Z"
+            "modified": "2025-09-23T09:36:15.474Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "scala 1:20 "
         }
     ],
     "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
