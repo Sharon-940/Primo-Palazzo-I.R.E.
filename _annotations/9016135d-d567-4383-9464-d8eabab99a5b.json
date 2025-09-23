@@ -49,26 +49,6 @@ order: 4
             "value": "D_Architettonico"
         },
         {
-            "created": "2025-09-18T10:46:43.454Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "S_Esecutivo"
-        },
-        {
-            "created": "2025-09-18T10:46:48.341Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "E_Facciata"
-        },
-        {
             "created": "2025-09-23T07:43:55.020Z",
             "creator": {
                 "id": "Sharon-940",
@@ -77,6 +57,17 @@ order: 4
             "purpose": "tagging",
             "type": "TextualBody",
             "value": "S_Variante"
+        },
+        {
+            "type": "TextualBody",
+            "value": "E_FacciataSud",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T08:47:37.927Z",
+            "modified": "2025-09-23T08:47:44.872Z"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
