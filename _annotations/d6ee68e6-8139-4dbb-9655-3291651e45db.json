@@ -47,15 +47,15 @@ order: 9
             "value": "E_RivestimentoMarmo"
         },
         {
-            "type": "TextualBody",
-            "value": "dettagliocostruttivo",
-            "purpose": "classifying",
+            "created": "2025-09-23T09:44:36.718Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:44:36.718Z",
-            "modified": "2025-09-23T09:44:41.389Z"
+            "modified": "2025-09-23T09:44:49.011Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "dettaglio costruttivo"
         }
     ],
     "id": "d6ee68e6-8139-4dbb-9655-3291651e45db.json",
