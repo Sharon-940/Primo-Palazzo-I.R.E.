@@ -15,6 +15,36 @@ order: 9
             "purpose": "supplementing",
             "type": "TextualBody",
             "value": "sezione trasversale sulla linea A-A"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "D_Architettonico",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:43:56.682Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "S_Esecutivo",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:43:58.777Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "E_RivestimentoMarmo",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:44:00.954Z"
         }
     ],
     "id": "d6ee68e6-8139-4dbb-9655-3291651e45db.json",
