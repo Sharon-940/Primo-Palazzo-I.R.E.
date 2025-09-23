@@ -11,10 +11,10 @@ order: 2
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "modified": "2025-09-17T12:45:39.679Z",
+            "modified": "2025-09-23T09:35:24.040Z",
             "purpose": "classifying",
             "type": "TextualBody",
-            "value": "prospetto"
+            "value": "prospetto "
         },
         {
             "created": "2025-09-16T14:42:57.782Z",
@@ -77,19 +77,30 @@ order: 2
             "purpose": "linking",
             "type": "TextualBody",
             "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#man_-mio_0001_0001_0046_0002_0004"
+        },
+        {
+            "type": "TextualBody",
+            "value": "1:20 ",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:35:27.403Z",
+            "modified": "2025-09-23T09:35:31.718Z"
         }
     ],
     "id": "c9bf25f9-b68a-4519-9eeb-b559c55881d5.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=158.86660766601562,462.45367431640625,8215.052337646484,2169.9474487304688"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=158.86660766601562,462.45367431640625,8215.052337646484,2169.9474487304688"
         }
     },
     "type": "Annotation"
