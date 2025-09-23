@@ -1,0 +1,34 @@
+---
+canvas: "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg"
+order: 9
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "sezione trasversale sulla linea A-A",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:42:04.460Z",
+            "modified": "2025-09-23T09:42:13.724Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4022.060546875,1411.1070556640625,1036.96240234375,484.2110595703125"
+        }
+    },
+    "id": "d6ee68e6-8139-4dbb-9655-3291651e45db.json",
+    "motivation": "commenting"
+}
