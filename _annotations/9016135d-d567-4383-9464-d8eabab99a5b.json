@@ -78,6 +78,17 @@ order: 4
             "purpose": "tagging",
             "type": "TextualBody",
             "value": "L_Edificio"
+        },
+        {
+            "type": "TextualBody",
+            "value": "scala 1:50",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-09-23T09:36:37.856Z",
+            "modified": "2025-09-23T09:36:42.046Z"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
