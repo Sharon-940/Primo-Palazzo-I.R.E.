@@ -70,14 +70,14 @@ order: 4
             "value": "E_FacciataSud"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "L_Edificio",
+            "created": "2025-09-23T08:52:00.902Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T08:52:00.902Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "L_Edificio"
         }
     ],
     "id": "9016135d-d567-4383-9464-d8eabab99a5b.json",
