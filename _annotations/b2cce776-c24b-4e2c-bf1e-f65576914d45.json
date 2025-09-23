@@ -28,34 +28,45 @@ order: 4
             "value": "dettaglio costruttivo del sistema di ancoraggio del pannello in granito "
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "D_Architettonico",
+            "created": "2025-09-17T12:47:55.925Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:47:55.925Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "D_Architettonico"
+        },
+        {
+            "created": "2025-09-17T12:48:01.778Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "S_Esecutivo"
+        },
+        {
+            "created": "2025-09-17T12:48:19.765Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_RivestimentoMarmo"
         },
         {
             "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "S_Esecutivo",
+            "value": "scala 1:1",
+            "purpose": "identifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-17T12:48:01.778Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "E_RivestimentoMarmo",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-09-17T12:48:19.765Z"
+            "created": "2025-09-23T09:35:53.872Z",
+            "modified": "2025-09-23T09:36:06.383Z"
         }
     ],
     "id": "b2cce776-c24b-4e2c-bf1e-f65576914d45.json",
