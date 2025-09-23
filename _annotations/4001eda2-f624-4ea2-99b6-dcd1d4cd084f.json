@@ -4,51 +4,31 @@ order: 7
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Variante 23 Giugno 1950",
-            "purpose": "identifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-09-15T14:55:56.563Z",
-            "modified": "2025-09-15T14:56:20.189Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "variante di progetto",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T15:00:23.867Z"
-        },
-        {
+            "modified": "2025-09-15T14:56:20.189Z",
+            "purpose": "identifying",
             "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "design revision",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-09-15T15:00:28.090Z"
+            "value": "Variante 23 Giugno 1950"
         }
     ],
+    "id": "4001eda2-f624-4ea2-99b6-dcd1d4cd084f.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=239.30490112304688,245.18533325195312,424.6728210449219,48.12762451171875"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0016_0004/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=239.30490112304688,245.18533325195312,424.6728210449219,48.12762451171875"
         }
     },
-    "id": "4001eda2-f624-4ea2-99b6-dcd1d4cd084f.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
