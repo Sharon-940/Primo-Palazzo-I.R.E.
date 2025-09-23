@@ -17,34 +17,45 @@ order: 9
             "value": "sezione trasversale sulla linea A-A"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "D_Architettonico",
+            "created": "2025-09-23T09:43:56.682Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:43:56.682Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "D_Architettonico"
+        },
+        {
+            "created": "2025-09-23T09:43:58.777Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "S_Esecutivo"
+        },
+        {
+            "created": "2025-09-23T09:44:00.954Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "E_RivestimentoMarmo"
         },
         {
             "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "S_Esecutivo",
+            "value": "dettagliocostruttivo",
+            "purpose": "classifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-23T09:43:58.777Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "E_RivestimentoMarmo",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-09-23T09:44:00.954Z"
+            "created": "2025-09-23T09:44:36.718Z",
+            "modified": "2025-09-23T09:44:41.389Z"
         }
     ],
     "id": "d6ee68e6-8139-4dbb-9655-3291651e45db.json",
