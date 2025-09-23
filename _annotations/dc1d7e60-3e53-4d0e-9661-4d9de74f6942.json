@@ -6,26 +6,6 @@ order: 3
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "created": "2025-09-15T14:08:17.044Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "timbro"
-        },
-        {
-            "created": "2025-09-15T14:08:18.385Z",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "purpose": "tagging",
-            "type": "TextualBody",
-            "value": "stamp"
-        },
-        {
             "created": "2025-09-15T14:08:21.264Z",
             "creator": {
                 "id": "Sharon-940",
@@ -37,15 +17,15 @@ order: 3
             "value": "23 GEN 1952\nSI APPROVA\nIL SINDACO\n[Signed]"
         },
         {
-            "type": "TextualBody",
-            "value": "timbro di approvazione, approval stamp",
-            "purpose": "classifying",
+            "created": "2025-09-15T14:50:02.988Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-09-15T14:50:02.988Z",
-            "modified": "2025-09-15T14:50:05.126Z"
+            "modified": "2025-09-15T14:50:05.126Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "timbro di approvazione, approval stamp"
         }
     ],
     "id": "dc1d7e60-3e53-4d0e-9661-4d9de74f6942.json",
