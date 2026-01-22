@@ -1,4 +1,12 @@
 images:
+- added: '2026-01-22 11:42:47.877712'
+  iiif: true
+  thumbnail: https://iiif.archive.org/image/iiif/3/man_-mio_0001_0001_0046_0033_0041-0003_202601%2FMan_-Mio_0001_0001_0046_0037_0009-0001.jpg/full/max/0/default.jpg
+  title:
+  - none:
+    - man_-mio_0001_0001_0046_0033_0041-0003
+  url: https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0033_0041-0003_202601/manifest.json
+  user: Sharon-940
 - added: '2025-09-16 14:40:03.157165'
   iiif: false
   thumbnail: https://iiif.archive.org/iiif/man_-mio_0001_0001_0046_0020_0004-0001/full/full/0/default.jpg
