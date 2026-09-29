@@ -4,41 +4,51 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
+        {
+            "created": "2025-03-21T16:24:33.904Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cartiglio"
+        },
+        {
+            "created": "2025-03-21T16:24:34.793Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-03-21T16:24:36.958Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "PADOVA\nVIA ALTINATE n\u00b0 10\n\nPALAZZO PER UFFICI\nED APPARTAMENTI\n\n53   3-A PIANTA PIANO TERRA 1:50\n"
+        },
         {
             "type": "TextualBody",
             "purpose": "tagging",
-            "value": "cartiglio",
+            "value": "title block",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-03-21T16:24:33.904Z"
-        },
-        {
-            "type": "TextualBody",
-            "value": "PADOVA\nVIA ALTINATE n\u00b0 10\n\nPALAZZO PER UFFICI\nED APPARTAMENTI\n\n53   3-A PIANTA PIANO TERRA 1:50\n",
-            "purpose": "supplementing",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-03-21T16:24:34.793Z",
-            "modified": "2025-03-21T16:24:36.958Z"
+            "created": "2026-09-29T10:13:40.171Z"
         }
     ],
+    "id": "8c00d3bb-a3b0-4d80-a977-13568d1a4607.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=427.4107666015625,39.14739227294922,672.727294921875,1030.9091262817383"
+        },
         "source": {
             "id": "https://iiif.archive.org/iiif/Man_-Mio_0001_0001_0046_0002_0009/full/full/0/default.jpg",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=427.4107666015625,39.14739227294922,672.727294921875,1030.9091262817383"
         }
     },
-    "id": "8c00d3bb-a3b0-4d80-a977-13568d1a4607.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
