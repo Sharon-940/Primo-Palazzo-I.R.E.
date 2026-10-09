@@ -6,7 +6,9 @@ This repository documents an experiment in the digital annotation of historical 
 
 The experiment explores a stage of the workflow between archival digitization and historical research, focusing on how digitized archival resources can be accessed, examined, and annotated by historians.
 
-The proposed workflow begins with archival documents digitized and made available through Internet Archive, which provides access to their digital reproductions and IIIF resources. These resources are subsequently used in Annonatate, an environment in which historians can examine the documents and create annotations directly on their digital images.
+The proposed workflow assumes that archival documents have been digitized and made available by archival institutions. To simulate this scenario, digital reproductions of selected archival sources were uploaded to Internet Archive as part of the experiment, making them accessible through IIIF.
+
+These IIIF resources are subsequently used in Annonatate, where historians can examine the documents and create annotations directly on their digital images.
 
 The experiment investigates how this workflow can support the identification, selection, and annotation of relevant information during the preliminary stages of historical analysis.
 
